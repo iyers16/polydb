@@ -1,0 +1,9 @@
+.text
+ld a
+add b
+st c
+stop
+.data
+a: 2
+b: 5
+c: 0
